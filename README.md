@@ -22,3 +22,8 @@ Utilizei minha base de html, com uso de tags semanticas ao invés de apenas div 
 
 Notas do autor:
 18/10: Primeiro dia do código, estou feliz com meu progresso e aceito criticas de como melhorar ele =D
+19/10: 
+#Aprendi conceitos de media query, isso faz com que o site seja exibido de forma correta idenpendente do dispositivo
+#Aprendi pequenas animações em css
+#Removi o fundo claro para um tom verde mais vivo e menos prejudicial as olhos
+#Removi a bolinha das listas e o sublnhado dos links
