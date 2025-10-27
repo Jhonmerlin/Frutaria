@@ -27,3 +27,5 @@ Notas do autor:
 #Aprendi pequenas animações em css
 #Removi o fundo claro para um tom verde mais vivo e menos prejudicial as olhos
 #Removi a bolinha das listas e o sublnhado dos links
+
+27/10: Adicionei cards e box shadow, pra dar destaque aos itens da página, adicionei cor de fundo e estilizei o h1 
