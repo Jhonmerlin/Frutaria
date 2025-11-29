@@ -1,0 +1,17 @@
+$bgcolor:#f5edd6;
+@import './header';
+@import './nav';
+@import './layer';
+@import './mainbox';
+
+*{
+    box-sizing: border-box;
+    background-color: $bgcolor;
+}
+
+.box{
+    
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}

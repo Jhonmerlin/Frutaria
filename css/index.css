@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
+header h1 {
+  font-family: "Archivo Black", sans-serif;
+  font-size: 100px;
+  color: #294633;
+  text-shadow: 2px 2px 5px rgb(18, 2, 2);
+}
+
+div .logo-img {
+  align-self: flex-end;
+  height: 250px;
+  width: 400px;
+}
+
+.links-nav {
+  border: 5px solid #294633;
+  justify-content: space-between;
+  background: #e7ddbe;
+  height: auto;
+  width: auto;
+  justify-items: center;
+  height: 100px;
+}
+
+.links-nav ul {
+  display: flex;
+  list-style: none;
+  gap: 200px;
+  padding: 0;
+  margin: 0;
+  background-color: #e7ddbe;
+  position: relative;
+  align-self: center;
+  font-size: 35px;
+  color: #294633;
+  padding-top: 20px;
+}
+
+.links-nav li a {
+  text-transform: uppercase;
+  font-family: "Archivo Black", sans-serif;
+  background-color: #e7ddbe;
+  width: auto;
+  height: auto;
+  text-decoration: none;
+  color: #294633;
+}
+
+.layer {
+  width: auto;
+  height: auto;
+  position: absolute;
+  justify-content: start;
+}
+
+.layer-nav {
+  border-radius: 10px;
+  border: 5px solid #294633;
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.layer-nav a {
+  text-transform: uppercase;
+  margin-left: -40px;
+  background-color: #e7ddbe;
+  color: #294633;
+  border: 2px solid #294633;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  font-size: 40px;
+  padding: 40px;
+  text-decoration: none;
+  font-family: "Archivo Black", sans-serif;
+  text-align: center;
+}
+
+.main-box {
+  border: 1px solid #e7ddbe;
+  border-radius: 20px;
+  margin-left: 450px;
+  margin-top: 20px;
+  background: #e7ddbe;
+  margin-right: 80px;
+  height: auto;
+}
+
+.main-box p {
+  background: #e7ddbe;
+}
+
+* {
+  box-sizing: border-box;
+  background-color: #f5edd6;
+}
+
+.box {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=index.css.map */
